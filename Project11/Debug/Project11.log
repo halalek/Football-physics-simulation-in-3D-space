@@ -1,0 +1,41 @@
+﻿  Ball1.cpp
+c:\users\hp\desktop\مجلد جديد (6)\project11\project11\ball1.h(73): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\hp\desktop\مجلد جديد (6)\project11\project11\ball1.h(77): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\hp\desktop\مجلد جديد (6)\project11\project11\ball1.cpp(54): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\hp\desktop\مجلد جديد (6)\project11\project11\ball1.cpp(92): warning C4101: 'keys': unreferenced local variable
+c:\users\hp\desktop\مجلد جديد (6)\project11\project11\ball1.cpp(210): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\hp\desktop\مجلد جديد (6)\project11\project11\ball1.cpp(211): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\hp\desktop\مجلد جديد (6)\project11\project11\ball1.cpp(212): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\hp\desktop\مجلد جديد (6)\project11\project11\ball1.cpp(222): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\hp\desktop\مجلد جديد (6)\project11\project11\ball1.cpp(225): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\hp\desktop\مجلد جديد (6)\project11\project11\ball1.cpp(274): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\hp\desktop\مجلد جديد (6)\project11\project11\ball1.cpp(275): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\hp\desktop\مجلد جديد (6)\project11\project11\ball1.cpp(276): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\hp\desktop\مجلد جديد (6)\project11\project11\ball1.cpp(341): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\hp\desktop\مجلد جديد (6)\project11\project11\ball1.cpp(346): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\hp\desktop\مجلد جديد (6)\project11\project11\ball1.cpp(347): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\hp\desktop\مجلد جديد (6)\project11\project11\ball1.cpp(354): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\hp\desktop\مجلد جديد (6)\project11\project11\ball1.cpp(355): warning C4553: '==': result of expression not used; did you intend '='?
+c:\users\hp\desktop\مجلد جديد (6)\project11\project11\ball1.cpp(365): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\hp\desktop\مجلد جديد (6)\project11\project11\ball1.cpp(373): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\hp\desktop\مجلد جديد (6)\project11\project11\ball1.cpp(380): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+c:\users\hp\desktop\مجلد جديد (6)\project11\project11\ball1.cpp(424): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\hp\desktop\مجلد جديد (6)\project11\project11\ball1.cpp(445): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\hp\desktop\مجلد جديد (6)\project11\project11\ball1.cpp(473): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\hp\desktop\مجلد جديد (6)\project11\project11\ball1.cpp(475): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\hp\desktop\مجلد جديد (6)\project11\project11\ball1.cpp(477): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\hp\desktop\مجلد جديد (6)\project11\project11\ball1.cpp(479): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\hp\desktop\مجلد جديد (6)\project11\project11\ball1.cpp(480): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\hp\desktop\مجلد جديد (6)\project11\project11\ball1.cpp(495): warning C4305: '-=': truncation from 'double' to 'float'
+c:\users\hp\desktop\مجلد جديد (6)\project11\project11\ball1.cpp(496): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+c:\users\hp\desktop\مجلد جديد (6)\project11\project11\ball1.cpp(497): warning C4244: '-=': conversion from 'double' to 'int', possible loss of data
+c:\users\hp\desktop\مجلد جديد (6)\project11\project11\ball1.cpp(532): warning C4244: '-=': conversion from 'double' to 'int', possible loss of data
+c:\users\hp\desktop\مجلد جديد (6)\project11\project11\ball1.cpp(558): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\hp\desktop\مجلد جديد (6)\project11\project11\ball1.cpp(582): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\hp\desktop\مجلد جديد (6)\project11\project11\ball1.cpp(584): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\hp\desktop\مجلد جديد (6)\project11\project11\ball1.cpp(586): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\hp\desktop\مجلد جديد (6)\project11\project11\ball1.cpp(588): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\hp\desktop\مجلد جديد (6)\project11\project11\ball1.cpp(589): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\hp\desktop\مجلد جديد (6)\project11\project11\ball1.cpp(598): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+c:\users\hp\desktop\مجلد جديد (6)\project11\project11\ball1.cpp(599): warning C4305: '-=': truncation from 'double' to 'float'
+  Project11.vcxproj -> C:\Users\HP\Desktop\مجلد جديد (6)\Project11\Debug\Project11.exe
