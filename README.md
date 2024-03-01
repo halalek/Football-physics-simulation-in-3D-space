@@ -3,12 +3,19 @@ This project aims to study the movement of a football within a room to simulate 
 
 ## Physical laws used:
 -Newton's first law
+
 -Newton's second law
+
 -Newton's third law
--Friction force
+
+-Friction 
+
 -Rotational movement of the ball
+
 -Collision
+
 -Speed after collision
+
 -Throwing
 
 ## Ball cases:
