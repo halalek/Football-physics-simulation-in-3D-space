@@ -2,14 +2,14 @@
 This project aims to study the movement of a football within a room to simulate the ball colliding with the wall, its bounce, its rotation, and the study of ball throwing using Opengl.
 
 ## Physical laws used:
-Newton's first law
-Newton's second law
-Newton's third law
-Friction force
-Rotational movement of the ball
-Collision
-Speed after collision
-throwing
+-Newton's first law
+-Newton's second law
+-Newton's third law
+-Friction force
+-Rotational movement of the ball
+-Collision
+-Speed after collision
+-Throwing
 
 ## Ball cases:
 ### 1-The ball is at rest on the green grass, meaning its speed is constant and equal to zero
