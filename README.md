@@ -39,8 +39,6 @@ The recoil speed after the impact is equal to the speed before the impact, but i
 
 
 https://github.com/halalek/Football-physics-simulation-in-3D-space/assets/112726630/a1c36b43-67a8-48d9-a554-1a9c5f71fd53
+![image](https://github.com/halalek/Football-physics-simulation-in-3D-space/assets/112726630/efef0122-16cd-4333-8eb6-550974f57a9d)
 
-
-
-https://github.com/halalek/Football-physics-simulation-in-3D-space/assets/112726630/91930bfd-d3b0-4b83-891c-ce505fda5f7f
 
